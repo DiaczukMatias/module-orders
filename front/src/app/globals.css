@@ -1,0 +1,23 @@
+:root {
+  --background: #778899;
+  --foreground: #000000;
+}
+
+nextjs-portal {
+  display: none !important;
+}
+
+html,
+body {
+  background-color: #778899 !important;
+}
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}

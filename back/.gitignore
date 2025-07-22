@@ -1,0 +1,5 @@
+node_modules/
+*.map
+*.ps1
+*.cmd
+.env
