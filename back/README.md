@@ -40,7 +40,9 @@ Este es el backend de la aplicación fullstack desarrollada como parte de una pr
 
    y agregar:
    MONGODB_URI=mongodb+srv://diaczukm:nbxRwksEzhUMn0jb@logistics-cluster.sn3qxom.mongodb.net/logisticsDB?retryWrites=true&w=majority&appName=logistics-cluster
+
    PORT=3001
+
    JWT_SECRET="#zX&v9YLc!pS2Hq@W7uM"
 
 4. Iniciar la aplicación:
